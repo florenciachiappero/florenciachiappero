@@ -7,5 +7,5 @@ I'm Florencia Chiappero
 - 💬 Ask me about anything you think I might be able to help you.
 - :incoming_envelope: How to reach me: linkedin.com/in/florenciachiappero/
 - :hibiscus: Pronouns: she/her
-- :heart_eyes_cat: Fun fact: I love cats and sharks, well any living things to be honest.
+- :heart_eyes_cat: Fun fact: I love cats and sharks.
 
