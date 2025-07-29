@@ -8,7 +8,6 @@ I'm **Florencia Chiappero Gibney**
 - 🧰 Tools I'm using: `Python`, `pandas`, `Jupyter Notebooks`, `Excel`, `Git`, `GitHub`
 - 🌍 Based in the U.S. Virgin Islands
 - 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/florenciachiappero/)
-- 🌸 Pronouns: **she/her**
 
 
 
