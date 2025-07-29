@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hi there 👋  
+I'm **Florencia Chiappero Gibney**
 
-I'm Florencia Chiappero
+- 📊 I'm currently on a journey to become a **Data Analyst**
+- 🎓 Taking courses from **Google**, **IBM**, **CS50 (Harvard)**, and **freeCodeCamp**
+- 🌱 Building skills in **Python**, **SQL**, **pandas**, **Excel**, **data visualization**, and **Git/GitHub**
+- 📁 Actively working on real-world data projects to build my portfolio
+- 🧰 Tools I'm using: `Python`, `pandas`, `Jupyter Notebooks`, `Excel`, `Git`, `GitHub`
+- 🌍 Based in the U.S. Virgin Islands
+- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/florenciachiappero/)
+- 🌸 Pronouns: **she/her**
 
-- :ocean: I’m currently working on multiple CS50's final projects.
-- 🌱 I’m currently taking several courses at freeCodeCamp.
-- 💬 Ask me about anything you think I might be able to help you.
-- :incoming_envelope: How to reach me: linkedin.com/in/florenciachiappero/
-- :hibiscus: Pronouns: she/her
-- :heart_eyes_cat: Fun fact: I love cats and sharks.
+
+
+
 
